@@ -18,3 +18,7 @@
 	path = scrummer
 	url = git@github.com:modoolar/scrummer.git
 	branch = 11.0
+[submodule "oca-project"]
+	path = oca-project
+	url = git@github.com:oca/project.git
+	branch = 11.0
