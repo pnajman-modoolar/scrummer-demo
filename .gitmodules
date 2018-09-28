@@ -14,3 +14,7 @@
 	path = project-agile
 	url = git@github.com:modoolar/project-agile.git
 	branch = 11.0
+[submodule "scrummer"]
+	path = scrummer
+	url = git@github.com:modoolar/scrummer.git
+	branch = 11.0
