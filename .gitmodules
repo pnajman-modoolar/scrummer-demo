@@ -10,3 +10,7 @@
 	path = project
 	url = git@github.com:modoolar/project.git
 	branch = 11.0
+[submodule "project-agile"]
+	path = project-agile
+	url = git@github.com:modoolar/project-agile.git
+	branch = 11.0
