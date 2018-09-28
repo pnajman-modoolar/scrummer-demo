@@ -6,3 +6,7 @@
 	path = web
 	url = git@github.com:modoolar/web.git
 	branch = 11.0
+[submodule "project"]
+	path = project
+	url = git@github.com:modoolar/project.git
+	branch = 11.0
